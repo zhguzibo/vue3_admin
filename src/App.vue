@@ -10,11 +10,11 @@ const str = '哈哈哈'
 </template>
 
 <style scoped lang="scss">
-.box{
+.box {
   width: 600px;
   height: 400px;
   background-color: aliceblue;
-  h1{
+  h1 {
     color: black;
   }
 }
